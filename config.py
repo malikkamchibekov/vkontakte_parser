@@ -1,0 +1,2 @@
+# https://dev.vk.com/api/access-token/implicit-flow-user
+token = 'vk1.a.sW04D1YkBmtCnX7iAE-UKuruvO1g0VW57jL2JIsdYj57o7myW_Hj8GhhS2t89fpBu4zpAFeNH-Kgc8r_xN7w4Y7XwreLQqmRMznPw8AgFeD_amVO8gn8AJUXaiOYcvZDB3JAA43GK-ruDhhqAfwX98RIaLXfcrKfWDIhb1w_7FN-htStSxlXg5QY3VDTaQ7s'
