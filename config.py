@@ -1,2 +1,3 @@
-# https://dev.vk.com/api/access-token/implicit-flow-user
-token = 'vk1.a.sW04D1YkBmtCnX7iAE-UKuruvO1g0VW57jL2JIsdYj57o7myW_Hj8GhhS2t89fpBu4zpAFeNH-Kgc8r_xN7w4Y7XwreLQqmRMznPw8AgFeD_amVO8gn8AJUXaiOYcvZDB3JAA43GK-ruDhhqAfwX98RIaLXfcrKfWDIhb1w_7FN-htStSxlXg5QY3VDTaQ7s'
+# https://dev.vk.com/api/access-token/implicit-flow-user или https://vkhost.github.io/(предварительно авторизовавшись)
+# токен действителен по умолчанию 86400 секунд (24 часа)
+token = 'vk1.a.b4GkBvT1Krwfo2ClEimJsxF1tT5VEYzZ9HKtaTRQBK11y4-TsEJSarqbuvokUDecy6SZyqY5a5O7Ed1hGZaU9oGV_XA0GA2lSavPUf4xWH63H1XDl5Hmy6LWzmZpIKFW9nf1bXL6_J9Q9H0XZto3OR0a0UDNTReB_ZrSLtZKqvndsgmen1NyGrTYFvWuwIQsHjh_P5yIfmKBIt08SdRvtQ'
